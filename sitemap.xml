@@ -1,19 +1,8 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://www.imageonlinetools.com/</loc>
-    </url>
-    <url>
-        <loc>https://www.imageonlinetools.com/learn</loc>
-    </url>
-    <url>
-        <loc>https://www.imageonlinetools.com/learn/how-to-create-3d-texts-online</loc>
-    </url>
-    <url>
-        <loc>https://www.imageonlinetools.com/learn/how-to-generate-button-images-online</loc>
-    </url>
-    <url>
-        <loc>https://www.imageonlinetools.com/crop-image</loc>
     </url>
     <url>
         <loc>https://www.imageonlinetools.com/image-editor-tools</loc>
@@ -21,36 +10,75 @@
     <url>
         <loc>https://www.imageonlinetools.com/image-generator-tools</loc>
     </url>
+
+    <url>
+        <loc>https://www.imageonlinetools.com/crop-image</loc>
+    </url>
+
     <url>
         <loc>https://www.imageonlinetools.com/trim-transparent-pixels</loc>
     </url>
-    <url>
-        <loc>https://www.imageonlinetools.com/button-generator</loc>
-    </url>
-    <url>
-        <loc>https://www.imageonlinetools.com/3d-text-generator</loc>
-    </url>
-    <url>
-        <loc>https://www.imageonlinetools.com/sunburst-generator</loc>
-    </url>
-    <url>
-        <loc>https://www.imageonlinetools.com/qr-code-generator</loc>
-    </url>
+
     <url>
         <loc>https://www.imageonlinetools.com/change-image-color</loc>
     </url>
+
     <url>
         <loc>https://www.imageonlinetools.com/change-image-hue</loc>
     </url>
+
     <url>
         <loc>https://www.imageonlinetools.com/grayscale-image-online</loc>
     </url>
+
     <url>
         <loc>https://www.imageonlinetools.com/sepia-image-online</loc>
     </url>
+
     <url>
         <loc>https://www.imageonlinetools.com/blur-image-online</loc>
     </url>
+
+    <url>
+        <loc>https://www.imageonlinetools.com/button-generator</loc>
+    </url>
+
+    <url>
+        <loc>https://www.imageonlinetools.com/3d-text-generator</loc>
+    </url>
+
+    <url>
+        <loc>https://www.imageonlinetools.com/qr-code-generator</loc>
+    </url>
+
+    <url>
+        <loc>https://www.imageonlinetools.com/sunburst-generator</loc>
+    </url>
+
+    <url>
+        <loc>https://www.imageonlinetools.com/concentric-circles-generator</loc>
+    </url>
+
+    <url>
+        <loc>https://www.imageonlinetools.com/checkerboard-generator</loc>
+    </url>
+
+    <url>
+        <loc>https://www.imageonlinetools.com/three-color-checkerboard-generator</loc>
+    </url>
+
+    <url>
+        <loc>https://www.imageonlinetools.com/learn</loc>
+    </url>
+
+    <url>
+        <loc>https://www.imageonlinetools.com/learn/how-to-create-3d-texts-online</loc>
+    </url>
+
+    <url>
+        <loc>https://www.imageonlinetools.com/learn/how-to-generate-button-images-online</loc>
+    </url>
+
     <url>
         <loc>https://www.imageonlinetools.com/privacy-policy</loc>
     </url>
