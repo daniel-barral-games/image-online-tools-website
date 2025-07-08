@@ -3,15 +3,6 @@
     <url>
         <loc>https://www.imageonlinetools.com/</loc>
     </url>
-    <url>
-        <loc>https://www.imageonlinetools.com/image-editor-tools</loc>
-    </url>
-    <url>
-        <loc>https://www.imageonlinetools.com/image-generator-tools</loc>
-    </url>
-    <url>
-        <loc>https://www.imageonlinetools.com/animation-generator-tools</loc>
-    </url>
 
     <url>
         <loc>https://www.imageonlinetools.com/crop-image</loc>
@@ -55,6 +46,10 @@
 
     <url>
         <loc>https://www.imageonlinetools.com/procedural-image-generator</loc>
+    </url>
+
+    <url>
+        <loc>https://www.imageonlinetools.com/create-images-using-neural-networks</loc>
     </url>
 
     <url>
@@ -106,6 +101,10 @@
     </url>
 
     <url>
+        <loc>https://www.imageonlinetools.com/tone-generator</loc>
+    </url>
+
+    <url>
         <loc>https://www.imageonlinetools.com/learn</loc>
     </url>
 
@@ -120,6 +119,26 @@
     <url>
         <loc>https://www.imageonlinetools.com/tags</loc>
     </url>
+    <url>
+        <loc>https://www.imageonlinetools.com/categories</loc>
+    </url>
+
+    <url>
+        <loc>https://www.imageonlinetools.com/image-generator-tools</loc>
+    </url>
+
+    <url>
+        <loc>https://www.imageonlinetools.com/animation-generator-tools</loc>
+    </url>
+
+    <url>
+        <loc>https://www.imageonlinetools.com/image-editor-tools</loc>
+    </url>
+
+    <url>
+        <loc>https://www.imageonlinetools.com/audio-tools</loc>
+    </url>
+
 
     <url>
         <loc>https://www.imageonlinetools.com/tags/3d</loc>
@@ -151,6 +170,10 @@
 
     <url>
         <loc>https://www.imageonlinetools.com/tags/physics-simulations</loc>
+    </url>
+
+    <url>
+        <loc>https://www.imageonlinetools.com/tags/neural-networks</loc>
     </url>
 
     <url>

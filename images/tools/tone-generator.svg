@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 280" width="170px" height="70px">
+
+  <!--<rect x="0" y="0" width="680" height="280" fill="#ffffff"/>-->
+
+  <path 
+    fill="none" 
+    stroke="black" 
+    stroke-width="24"
+    d="M 40 140 
+      C 73 40, 107 40, 140 140 
+      S 207 240, 240 140
+      C 273 40, 307 40, 340 140 
+      S 407 240, 440 140
+      C 473 40, 507 40, 540 140 
+      S 607 240, 640 140
+      " />
+    
+</svg>
